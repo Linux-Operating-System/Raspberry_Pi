@@ -46,6 +46,9 @@ Formerly called *Raspbian*, this is the officially supported, highly optimized D
 
 The safest and most feature-rich tool to flash operating systems is the official **Raspberry Pi Imager**. It includes a powerful **OS Customization** suite that allows you to pre-configure network, user, and security configurations *before* the first boot.
 
+> [!TIP]
+> **Video Walkthrough:** If you would like a step-by-step visual demonstration of downloading the Raspberry Pi Imager, selecting options, and applying these customizations, you can watch **[NetworkChuck's Raspberry Pi Flashing Video](https://www.youtube.com/watch?v=wX75159ksdI)**.
+
 ### Step-by-Step Flashing Procedure:
 
 #### 1. Download and Install the Tool

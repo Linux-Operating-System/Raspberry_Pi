@@ -16,6 +16,9 @@ This guide covers the initial boot sequence, locating your Pi on the network, lo
     *   🟢 **Blinking/Flashing Green LED:** Indicates storage read/write activity. If it blinks in a rhythmic repeating pattern, it indicates a hardware error (e.g., cannot find boot files, RAM failure).
 5.  **First Boot Delay:** The very first boot takes roughly **1 to 2 minutes**. During this time, the OS automatically expands its partition to occupy the remaining space on your SD card, creates your user account, generates SSH host keys, and connects to the Wi-Fi network. Do not power off during this phase.
 
+> [!TIP]
+> **Video Walkthrough:** To see a physical demonstration of powering up a Raspberry Pi, finding its IP address on a network, and connecting using SSH, you can watch **[Learn Linux TV's Raspberry Pi Guide](https://www.youtube.com/@LearnLinuxTV)**.
+
 ---
 
 ## 🔍 2. Locating Your Raspberry Pi on the Network
